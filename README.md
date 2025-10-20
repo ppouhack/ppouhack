@@ -10,6 +10,8 @@ On the side, I develop analytical tools for **Kaito** and explore how on-chain a
 
 Currently focused on optimizing data pipelines, browser extensions, and automation scripts — all built with clarity and purpose.  
 
+📡 Follow me on [Twitter (X)](https://x.com/ppougod) for insights on DeFi, AI, and community building.
+
 ### ⚙️ Tech Stack
 **Languages & Frameworks:**  
 • `Python`
