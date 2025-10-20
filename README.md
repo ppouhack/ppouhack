@@ -12,18 +12,26 @@ Currently focused on optimizing data pipelines, browser extensions, and automati
 
 ### ⚙️ Tech Stack
 **Languages & Frameworks:**  
-`Python` • `Next.js` • `React` • `JavaScript` • `TypeScript (TSX)`  
+• `Python`
+• `Next.js`
+• `React` 
+• `JavaScript` 
+• `TypeScript (TSX)`  
 
 **Domains of Interest:**  
-Security Engineering • Web Automation • Data Analytics • DeFi & AI Integration  
+• Security Engineering
+• Web Automation
+• Data Analytics
+• DeFi & AI Integration  
 
 ### 🚀 Projects
-🔹 **[Kaito Rank Viewer](#)** — Chrome extension for visualizing Kaito Yapper leaderboard data directly on X (Twitter).  
-🔹 **[Kaito Data Analysis](#)** — Backend analytics pipeline and dashboard to process, visualize, and correlate Kaito dataset metrics.
+🔹 **[Kaito Rank Viewer](https://chromewebstore.google.com/detail/kaito-rank-viewer/hhmchjbpdlomjamdlbpiibpjflhlhjkb)** — Chrome extension for visualizing Kaito Yapper leaderboard data directly on X (Twitter).  
+🔹 **[Kaito Data Analysis](#)** — Backend analytics pipeline and dashboard to process, visualize, and correlate Kaito dataset metrics.  
+[![Kaito Data Analysis Screenshot](https://github.com/ppouhack/ppouhack/blob/main/kaito_data.png)](https://github.com/ppouhack/ppouhack)
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PPOU&theme=github-light&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PPOUHACK&theme=github-light&hide_border=true&area=true" width="95%"/>
 </p>
 
 ### 🐧 Fun Side
